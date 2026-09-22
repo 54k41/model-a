@@ -5,8 +5,7 @@ inteligência.
 
 O app monitora os anúncios mais recentes, identifica quais modelos estão de
 fato grátis e valida cada um pelo seu score de inteligência — o resultado é a
-lista publicada no [site do projeto](https://54k41.github.io/model-a/), que se
-atualiza automaticamente duas vezes ao dia.
+lista publicada no [site do projeto](https://54k41.github.io/model-a/).
 
 ## Uso
 
