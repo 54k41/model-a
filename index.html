@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cline Models — modelos grátis, ordenados por inteligência</title>
+<style>
+  :root {
+    --bg: #0f1117;
+    --card: #171a23;
+    --border: #262b38;
+    --text: #e8eaf0;
+    --muted: #8b93a7;
+    --accent: #4f8cff;
+    --accent-2: #35c28f;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+  .container { max-width: 860px; margin: 0 auto; padding: 48px 24px 64px; }
+  header { margin-bottom: 40px; }
+  .kicker {
+    color: var(--accent);
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+  }
+  h1 { font-size: 34px; margin: 8px 0 12px; }
+  .lead { color: var(--muted); font-size: 17px; max-width: 640px; }
+  .badge {
+    display: inline-block;
+    margin-left: 8px;
+    padding: 2px 10px;
+    border-radius: 999px;
+    border: 1px solid var(--accent-2);
+    color: var(--accent-2);
+    font-size: 12px;
+    vertical-align: middle;
+  }
+  h2 { font-size: 20px; margin: 40px 0 16px; }
+  ol.models { list-style: none; }
+  ol.models li {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 14px 18px;
+    margin-bottom: 10px;
+    transition: border-color 0.15s;
+  }
+  ol.models li:hover { border-color: var(--accent); }
+  ol.models .rank {
+    color: var(--muted);
+    font-family: Consolas, monospace;
+    font-size: 14px;
+    width: 26px;
+    text-align: right;
+  }
+  ol.models .name { font-weight: 600; font-size: 16px; flex: 1; }
+  ol.models .score {
+    color: var(--accent-2);
+    font-family: Consolas, monospace;
+    font-size: 14px;
+    white-space: nowrap;
+  }
+  ol.models .no-score { color: var(--muted); font-size: 13px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+  .source {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 18px;
+  }
+  .source h3 { font-size: 15px; margin-bottom: 6px; }
+  .source p { color: var(--muted); font-size: 13.5px; }
+  .source a { color: var(--accent); text-decoration: none; }
+  ul.rules { margin: 8px 0 0 20px; color: var(--muted); font-size: 14.5px; }
+  ul.rules li { margin-bottom: 8px; }
+  code {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 2px 8px;
+    font-family: Consolas, monospace;
+    font-size: 13.5px;
+    color: var(--accent-2);
+  }
+  footer { margin-top: 48px; color: var(--muted); font-size: 13px; border-top: 1px solid var(--border); padding-top: 20px; }
+  footer a { color: var(--accent); text-decoration: none; }
+  .updated { color: var(--muted); font-size: 13px; margin-top: 12px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <p class="kicker">Cline Models</p>
+    <h1>Modelos grátis na Cline, por inteligência <span class="badge" id="count-badge">carregando…</span></h1>
+    <p class="lead">
+      O app cruza três fontes — r/CLine, Hacker News e o blog oficial da Cline —
+      nos últimos 30 dias, identifica frases anunciando modelos grátis e valida
+      cada modelo no ranking de inteligência do modelgrep.
+    </p>
+    <p class="updated" id="updated"></p>
+  </header>
+
+  <h2>Models</h2>
+  <ol class="models" id="models"></ol>
+
+  <h2>Fontes</h2>
+  <div class="grid">
+    <div class="source">
+      <h3>Reddit r/CLine</h3>
+      <p>Busca por "free" no último mês, via RSS de busca (duas ordenações,
+      mescladas e deduplicadas).</p>
+    </div>
+    <div class="source">
+      <h3>Hacker News</h3>
+      <p>Histórias recentes com "cline free", via API pública do Algolia,
+      filtradas por data de criação.</p>
+    </div>
+    <div class="source">
+      <h3>Blog da Cline</h3>
+      <p>Posts dos últimos 30 dias em
+      <a href="https://cline.bot/blog">cline.bot/blog</a>, com data de
+      publicação verificada.</p>
+    </div>
+  </div>
+
+  <h2>Regras</h2>
+  <ul class="rules">
+    <li>Só conta frase que cita o modelo <strong>e</strong> contém "free" — menções soltas não valem.</li>
+    <li>"Muse Spark 1.3 Contributor" == "Muse Spark 1.3" (sufixos de parceria são descartados).</li>
+    <li>Versão mais nova da família vence: o DeepSeek V4.1 Flash substituiu o V4 Flash no free.</li>
+    <li>Filtro final: o modelo precisa estar no
+      <a href="https://modelgrep.com/best/smartest" style="color:var(--accent)">ranking smart</a>
+      — remove free fora do top e já deslistados.</li>
+  </ul>
+
+  <h2>Atualização automática</h2>
+  <p style="color:var(--muted); font-size:14.5px;">
+    Um workflow do GitHub Actions roda o app duas vezes ao dia (09:00 e 21:00 UTC)
+    e comita o <code>data.json</code> quando a lista muda — esta página e os dados
+    são publicados via GitHub Pages. Para atualizar manualmente:
+  </p>
+  <p style="margin-top:10px;">
+    <code>python main.py --json &gt; data.json</code>
+  </p>
+
+  <footer>
+    Dados de inteligência: <a href="https://modelgrep.com/best/smartest">modelgrep.com</a> ·
+    Fontes: <a href="https://www.reddit.com/r/CLine/">r/CLine</a> ·
+    <a href="https://hn.algolia.com/api">HN Algolia</a> ·
+    <a href="https://cline.bot/blog">Cline Blog</a>
+  </footer>
+</div>
+
+<script>
+  // Fallback embutido (última execução do app), caso data.json não esteja disponível.
+  const FALLBACK = {
+    "models": [
+      {"name": "Muse Spark 1.3", "score": 48.1},
+      {"name": "Kimi K3", "score": 43.6},
+      {"name": "GLM 5.3 Flash", "score": 41.8},
+      {"name": "DeepSeek V4.1 Flash", "score": 39.5}
+    ],
+    "generated_at": "2026-09-22"
+  };
+
+  function render(data) {
+    const list = document.getElementById("models");
+    list.innerHTML = "";
+    const models = data.models || [];
+    document.getElementById("count-badge").textContent = models.length + " modelos";
+    if (data.generated_at) {
+      document.getElementById("updated").textContent =
+        "Dados atualizados em " + data.generated_at + ".";
+    }
+    models.forEach((model, i) => {
+      const li = document.createElement("li");
+      const rank = document.createElement("span");
+      rank.className = "rank";
+      rank.textContent = (i + 1) + ".";
+      const name = document.createElement("span");
+      name.className = "name";
+      name.textContent = model.name;
+      const score = document.createElement("span");
+      score.className = "score";
+      score.textContent = model.score != null
+        ? "Intelligence " + model.score
+        : "";
+      if (model.score == null) score.className = "no-score";
+      li.append(rank, name, score);
+      list.appendChild(li);
+    });
+  }
+
+  fetch("data.json")
+    .then(r => r.ok ? r.json() : Promise.reject(r.status))
+    .then(render)
+    .catch(() => render(FALLBACK));
+</script>
+</body>
+</html>
