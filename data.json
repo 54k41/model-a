@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22",
+  "generated_at": "2026-09-23",
   "models": [
     {
       "name": "Muse Spark 1.3",
@@ -25,8 +25,7 @@
       "url": "https://modelgrep.com/models/z-ai/glm-5.3-flash",
       "score": 41.8,
       "sources": [
-        "GLM-5.3-Flash(Ox Alpha) is FREE in Cline",
-        "Ox Alpha is FREE in Cline, and it’s already 8% of our inference"
+        "GLM-5.3-Flash(Ox Alpha) is FREE in Cline"
       ]
     },
     {
@@ -123,12 +122,6 @@
       "title": "Ox Alpha fixed the same bug as Fable 5 with ~3x fewer tokens",
       "url": "https://www.reddit.com/r/CLine/comments/1vys93v/ox_alpha_fixed_the_same_bug_as_fable_5_with_3x/",
       "date": "2026-08-26T09:34:17+00:00",
-      "source": "reddit:r/CLine"
-    },
-    {
-      "title": "Ox Alpha is FREE in Cline, and it’s already 8% of our inference",
-      "url": "https://www.reddit.com/r/CLine/comments/1vwuhfq/ox_alpha_is_free_in_cline_and_its_already_8_of/",
-      "date": "2026-08-24T06:08:00+00:00",
       "source": "reddit:r/CLine"
     },
     {
