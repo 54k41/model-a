@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24",
+  "generated_at": "2026-09-25",
   "models": [
     {
       "name": "Muse Spark 1.3",
@@ -40,6 +40,12 @@
     }
   ],
   "posts": [
+    {
+      "title": "Space Bunny Alpha is now FREE in Cline🐰",
+      "url": "https://www.reddit.com/r/CLine/comments/1wpsd1s/space_bunny_alpha_is_now_free_in_cline/",
+      "date": "2026-09-25T10:04:15+00:00",
+      "source": "reddit:r/CLine"
+    },
     {
       "title": "Kimi K3 is FREE in Cline Desktop for a limited time 🎉",
       "url": "https://www.reddit.com/r/CLine/comments/1wmb1co/kimi_k3_is_free_in_cline_desktop_for_a_limited/",
@@ -119,10 +125,10 @@
       "source": "reddit:r/CLine"
     },
     {
-      "title": "Ox Alpha fixed the same bug as Fable 5 with ~3x fewer tokens",
-      "url": "https://www.reddit.com/r/CLine/comments/1vys93v/ox_alpha_fixed_the_same_bug_as_fable_5_with_3x/",
-      "date": "2026-08-26T09:34:17+00:00",
-      "source": "reddit:r/CLine"
+      "title": "Show HN: Tasket++ Simulate your Windows actions automatically-free and OS",
+      "url": "https://apps.microsoft.com/detail/xp9cjlhwvxs49p?hl=en-US&gl=US",
+      "date": "2026-09-25T07:46:00+00:00",
+      "source": "hackernews"
     },
     {
       "title": "Show HN: Little Memory 2.0, one-line-a-day journal, offline-first",
@@ -134,6 +140,12 @@
       "title": "Show HN: Trader News – Hacker News for Finance",
       "url": "https://news.ycombinator.com/item?id=49828019",
       "date": "2026-09-24T08:54:57+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Halo 3's Guardian, playable in the browser, as my personal website",
+      "url": "https://runboli.com",
+      "date": "2026-09-16T20:08:16+00:00",
       "source": "hackernews"
     },
     {
@@ -164,12 +176,6 @@
       "title": "DeepSeek wins IMO Gold on 12 cents",
       "url": "https://cline.bot/blog/deepseek-wins-imo-gold-on-12-cents",
       "date": "2026-08-26T13:44:00-07:00",
-      "source": "cline-blog"
-    },
-    {
-      "title": "Building a code review agent on the Cline loop",
-      "url": "https://cline.bot/blog/building-a-code-review-agent-with-cline-sdk",
-      "date": "2026-08-26T06:59:39-07:00",
       "source": "cline-blog"
     }
   ]
