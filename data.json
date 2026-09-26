@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25",
+  "generated_at": "2026-09-26",
   "models": [
     {
       "name": "Muse Spark 1.3",
@@ -20,15 +20,6 @@
       ]
     },
     {
-      "name": "GLM 5.3 Flash",
-      "slug": "z-ai/glm-5.3-flash",
-      "url": "https://modelgrep.com/models/z-ai/glm-5.3-flash",
-      "score": 41.8,
-      "sources": [
-        "GLM-5.3-Flash(Ox Alpha) is FREE in Cline"
-      ]
-    },
-    {
       "name": "Gemini 3.8 Flash",
       "slug": "google/gemini-3.8-flash",
       "url": "https://modelgrep.com/models/google/gemini-3.8-flash",
@@ -44,11 +35,24 @@
       "score": 39.5,
       "sources": [
         "DeepSeek v4.1 Flash doesn't work",
-        "Introducing Cline Desktop: a native interface for coding with open weight models"
+        "Introducing Cline Desktop: a native interface for coding with open weight models",
+        "Pixel Canary (new stealth model) is now FREE in Cline"
       ]
     }
   ],
   "posts": [
+    {
+      "title": "Pixel Canary (new stealth model) is now FREE in Cline",
+      "url": "https://www.reddit.com/r/CLine/comments/1wqkucr/pixel_canary_new_stealth_model_is_now_free_in/",
+      "date": "2026-09-26T08:01:47+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Someone explain, why is this happening exactly.",
+      "url": "https://www.reddit.com/r/CLine/comments/1wqgavg/someone_explain_why_is_this_happening_exactly/",
+      "date": "2026-09-26T03:41:28+00:00",
+      "source": "reddit:r/CLine"
+    },
     {
       "title": "Gemini 3.8 Flash is now FREE in Cline ⚡",
       "url": "https://www.reddit.com/r/CLine/comments/1wpyepq/gemini_38_flash_is_now_free_in_cline/",
@@ -134,39 +138,9 @@
       "source": "reddit:r/CLine"
     },
     {
-      "title": "GLM-5.3-Flash(Ox Alpha) is FREE in Cline",
-      "url": "https://www.reddit.com/r/CLine/comments/1vzqhod/glm53flashox_alpha_is_free_in_cline/",
-      "date": "2026-08-27T10:46:57+00:00",
-      "source": "reddit:r/CLine"
-    },
-    {
-      "title": "PSA - Cline 2.0.3 plugin in Android Studio Quail 4 gets stuck in plan mode.",
-      "url": "https://www.reddit.com/r/CLine/comments/1w4woyv/psa_cline_203_plugin_in_android_studio_quail_4/",
-      "date": "2026-09-02T01:47:39+00:00",
-      "source": "reddit:r/CLine"
-    },
-    {
-      "title": "ClinePass: When to expect Hy4, Muse Spark 1.3 and Qwen 3.8 Max-0902 ??!",
-      "url": "https://www.reddit.com/r/CLine/comments/1w6zy2z/clinepass_when_to_expect_hy4_muse_spark_13_and/",
-      "date": "2026-09-04T09:55:12+00:00",
-      "source": "reddit:r/CLine"
-    },
-    {
-      "title": "Show HN: Ekselio – Loveable for Finance Workflows (local first)",
+      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
       "url": "https://www.gptbeyond.com/try?home=1",
       "date": "2026-09-25T21:09:28+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Tasket++ Simulate your Windows actions automatically-free and OS",
-      "url": "https://apps.microsoft.com/detail/xp9cjlhwvxs49p?hl=en-US&gl=US",
-      "date": "2026-09-25T07:46:00+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Little Memory 2.0, one-line-a-day journal, offline-first",
-      "url": "https://apps.apple.com/us/app/little-memory-one-line-a-day/id514233379",
-      "date": "2026-09-24T19:26:06+00:00",
       "source": "hackernews"
     },
     {
@@ -176,15 +150,9 @@
       "source": "hackernews"
     },
     {
-      "title": "Show HN: Halo 3's Guardian, playable in the browser, as my personal website",
-      "url": "https://runboli.com",
-      "date": "2026-09-16T20:08:16+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "date": "2026-09-03T14:28:18+00:00",
+      "title": "Ask HN: Career paths to consider if I am better at supporting than creating?",
+      "url": "https://news.ycombinator.com/item?id=49682920",
+      "date": "2026-09-13T11:47:23+00:00",
       "source": "hackernews"
     },
     {
