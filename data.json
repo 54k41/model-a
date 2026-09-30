@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29",
+  "generated_at": "2026-09-30",
   "models": [
     {
       "name": "Muse Spark 1.3",
@@ -153,6 +153,12 @@
       "title": "Show HN: Trader News – Hacker News for Finance",
       "url": "https://news.ycombinator.com/item?id=49828019",
       "date": "2026-09-24T08:54:57+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Ask HN: Career paths to consider if I am better at supporting than creating?",
+      "url": "https://news.ycombinator.com/item?id=49682920",
+      "date": "2026-09-13T11:47:23+00:00",
       "source": "hackernews"
     },
     {
