@@ -132,6 +132,18 @@
       "source": "reddit:r/CLine"
     },
     {
+      "title": "Show HN: An Elasticsearch benchmarker and a Common Crawl indexer",
+      "url": "https://github.com/Vesiro/vesiro-benchmarker",
+      "date": "2026-10-01T14:07:50+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "40 years of writing code. I didn't see the end coming",
+      "url": "https://news.ycombinator.com/item?id=49921591",
+      "date": "2026-10-01T13:42:35+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "Show HN: CodeDiff – Fast (<100ms), robust (99.95%) syntax-aware code diff",
       "url": "https://github.com/ivankovic/codediff",
       "date": "2026-09-29T12:22:44+00:00",
@@ -147,6 +159,18 @@
       "title": "Show HN: Trader News – Hacker News for Finance",
       "url": "https://news.ycombinator.com/item?id=49828019",
       "date": "2026-09-24T08:54:57+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Halo 3's Guardian, playable in the browser, as my personal website",
+      "url": "https://runboli.com",
+      "date": "2026-09-16T20:08:16+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: SimTower, Decompiled, Rewritten, and in the Browser",
+      "url": "https://kvetch.io/conciliatower/",
+      "date": "2026-09-12T19:40:21+00:00",
       "source": "hackernews"
     },
     {
