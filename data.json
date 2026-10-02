@@ -132,6 +132,24 @@
       "source": "reddit:r/CLine"
     },
     {
+      "title": "ClinePass: When to expect Hy4, Muse Spark 1.3 and Qwen 3.8 Max-0902 ??!",
+      "url": "https://www.reddit.com/r/CLine/comments/1w6zy2z/clinepass_when_to_expect_hy4_muse_spark_13_and/",
+      "date": "2026-09-04T09:55:12+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Show HN: Fougere – Typescript backend framework, inside your app or on its own",
+      "url": "https://github.com/chok/fougere",
+      "date": "2026-10-02T14:18:57+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Ask HN: What to do with lots of spare compute in colocation?",
+      "url": "https://news.ycombinator.com/item?id=49932912",
+      "date": "2026-10-02T12:47:01+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
       "url": "https://github.com/graphene-data/graphene",
       "date": "2026-10-01T21:29:52+00:00",
@@ -150,57 +168,9 @@
       "source": "hackernews"
     },
     {
-      "title": "Show HN: An Elasticsearch benchmarker and a Common Crawl indexer",
-      "url": "https://github.com/Vesiro/vesiro-benchmarker",
-      "date": "2026-10-01T14:07:50+00:00",
-      "source": "hackernews"
-    },
-    {
       "title": "40 years of writing code. I didn't see the end coming",
       "url": "https://news.ycombinator.com/item?id=49921591",
       "date": "2026-10-01T13:42:35+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: CodeDiff – Fast (<100ms), robust (99.95%) syntax-aware code diff",
-      "url": "https://github.com/ivankovic/codediff",
-      "date": "2026-09-29T12:22:44+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
-      "url": "https://www.gptbeyond.com/try?home=1",
-      "date": "2026-09-25T21:09:28+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Trader News – Hacker News for Finance",
-      "url": "https://news.ycombinator.com/item?id=49828019",
-      "date": "2026-09-24T08:54:57+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Halo 3's Guardian, playable in the browser, as my personal website",
-      "url": "https://runboli.com",
-      "date": "2026-09-16T20:08:16+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: An ObjC-like compiler for Mac ARM, x86_64(Linux, Win), WASM, & others",
-      "url": "https://news.ycombinator.com/item?id=49730393",
-      "date": "2026-09-16T17:37:42+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: SimTower, Decompiled, Rewritten, and in the Browser",
-      "url": "https://kvetch.io/conciliatower/",
-      "date": "2026-09-12T19:40:21+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "LongCat-2.0 is now free to try in cline",
-      "url": "https://twitter.com/Meituan_LongCat/status/2094996391387111865",
-      "date": "2026-09-02T09:58:28+00:00",
       "source": "hackernews"
     },
     {
