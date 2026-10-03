@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02",
+  "generated_at": "2026-10-03",
   "models": [
     {
       "name": "Muse Spark 1.3",
@@ -138,6 +138,12 @@
       "source": "reddit:r/CLine"
     },
     {
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "date": "2026-10-02T20:00:15+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "Show HN: Fougere – Typescript backend framework, inside your app or on its own",
       "url": "https://github.com/chok/fougere",
       "date": "2026-10-02T14:18:57+00:00",
@@ -168,21 +174,27 @@
       "source": "hackernews"
     },
     {
+      "title": "Show HN: An Elasticsearch benchmarker and a Common Crawl indexer",
+      "url": "https://github.com/Vesiro/vesiro-benchmarker",
+      "date": "2026-10-01T14:07:50+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "40 years of writing code. I didn't see the end coming",
       "url": "https://news.ycombinator.com/item?id=49921591",
       "date": "2026-10-01T13:42:35+00:00",
       "source": "hackernews"
     },
     {
+      "title": "Show HN: A poetry site for developers – solve a code puzzle to post",
+      "url": "https://developerpoetry.com/",
+      "date": "2026-09-20T12:40:05+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "Cline Desktop: An open-source app for open-weight models",
       "url": "https://cline.bot/blog/cline-desktop-an-open-source-app-for-open-weight-models",
       "date": "2026-09-14T09:30:27-07:00",
-      "source": "cline-blog"
-    },
-    {
-      "title": "How We Migrated 11 Million Users to Cline's Biggest Harness Upgrade",
-      "url": "https://cline.bot/blog/how-we-migrated-11-million-users-to-clines-biggest-harness-upgrade",
-      "date": "2026-09-02T12:44:24-07:00",
       "source": "cline-blog"
     }
   ]
