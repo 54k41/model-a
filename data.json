@@ -115,6 +115,12 @@
       "source": "reddit:r/CLine"
     },
     {
+      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+      "url": "https://thoreaubasic.com/",
+      "date": "2026-10-03T07:28:54+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "Show HN: Made an open-source Lego AI generator",
       "url": "https://github.com/anteloc/ldraw-nova",
       "date": "2026-10-02T20:00:15+00:00",
@@ -166,12 +172,6 @@
       "title": "Show HN: A poetry site for developers – solve a code puzzle to post",
       "url": "https://developerpoetry.com/",
       "date": "2026-09-20T12:40:05+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "date": "2026-09-03T14:28:18+00:00",
       "source": "hackernews"
     },
     {
