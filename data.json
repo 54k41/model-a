@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04",
+  "generated_at": "2026-10-05",
   "models": [
     {
       "name": "Muse Spark 1.3",
@@ -119,6 +119,12 @@
       "url": "https://www.reddit.com/r/CLine/comments/1w9ln6l/i_stopped_my_coding_agent_from_rereading_the/",
       "date": "2026-09-07T07:46:53+00:00",
       "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Topscan.me – a new security platform with a new approach to scanning",
+      "url": "https://news.ycombinator.com/item?id=49960159",
+      "date": "2026-10-05T02:44:19+00:00",
+      "source": "hackernews"
     },
     {
       "title": "Task Manager CPU Graph Freezes into a Flat Line: Reverse Engineering the Cause",
