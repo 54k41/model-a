@@ -31,6 +31,12 @@
   ],
   "posts": [
     {
+      "title": "Pareto 26.10 Preview is now available in Cline",
+      "url": "https://www.reddit.com/r/CLine/comments/1wz40m6/pareto_2610_preview_is_now_available_in_cline/",
+      "date": "2026-10-06T14:27:33+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
       "title": "I'm building a game where your photos become dreams you can walk through. Here's how Cline handled its first feature",
       "url": "https://www.reddit.com/r/CLine/comments/1wx3ld8/im_building_a_game_where_your_photos_become/",
       "date": "2026-10-04T01:41:35+00:00",
@@ -121,15 +127,9 @@
       "source": "reddit:r/CLine"
     },
     {
-      "title": "Topscan.me – a new security platform with a new approach to scanning",
-      "url": "https://news.ycombinator.com/item?id=49960159",
-      "date": "2026-10-05T02:44:19+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Task Manager CPU Graph Freezes into a Flat Line: Reverse Engineering the Cause",
-      "url": "https://github.com/lurunzi/taskmgr-flatline-watch",
-      "date": "2026-10-04T17:12:13+00:00",
+      "title": "Show HN: PolyRoll – A 3D Marble Game for Mobile/Desktop",
+      "url": "https://polyroll.neocities.org",
+      "date": "2026-10-06T10:41:02+00:00",
       "source": "hackernews"
     },
     {
@@ -154,12 +154,6 @@
       "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
       "url": "https://github.com/graphene-data/graphene",
       "date": "2026-10-01T21:29:52+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: What 482 hospitals charge vs. what insurers pay, from their own files",
-      "url": "https://www.billmender.com/hospital-prices",
-      "date": "2026-10-01T19:42:09+00:00",
       "source": "hackernews"
     },
     {
