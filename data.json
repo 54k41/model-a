@@ -127,51 +127,9 @@
       "source": "reddit:r/CLine"
     },
     {
-      "title": "Show HN: An independent execution recorder for coding agents",
-      "url": "https://github.com/altrace-dev-role/rashomon",
-      "date": "2026-10-07T20:32:05+00:00",
-      "source": "hackernews"
-    },
-    {
       "title": "Show HN: Pointless but mostly-exact clone of Hacker News",
       "url": "https://news.ycombinator.lol",
       "date": "2026-10-07T18:05:35+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Zero dependency cross-language background job queue server",
-      "url": "https://github.com/zizq-labs/zizq",
-      "date": "2026-10-07T02:06:42+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: AA (a.k.a. AutoApply) – open-source job-hunt tool and research project",
-      "url": "https://github.com/Liebmann5/AA",
-      "date": "2026-10-06T20:10:27+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Free native macOS Photoshop Clone with integrated AI harness",
-      "url": "https://news.ycombinator.com/item?id=49981700",
-      "date": "2026-10-06T17:41:22+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: PolyRoll – A 3D Marble Game for Mobile/Desktop",
-      "url": "https://polyroll.neocities.org",
-      "date": "2026-10-06T10:41:02+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Borehole – acquisition tech due diligence from a repo's Git history",
-      "url": "https://borehole.dev/",
-      "date": "2026-10-04T15:26:50+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
-      "url": "https://thoreaubasic.com/",
-      "date": "2026-10-03T07:28:54+00:00",
       "source": "hackernews"
     },
     {
@@ -181,27 +139,9 @@
       "source": "hackernews"
     },
     {
-      "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
-      "url": "https://github.com/graphene-data/graphene",
-      "date": "2026-10-01T21:29:52+00:00",
-      "source": "hackernews"
-    },
-    {
       "title": "40 years of writing code. I didn't see the end coming",
       "url": "https://news.ycombinator.com/item?id=49921591",
       "date": "2026-10-01T13:42:35+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Trader News – Hacker News for Finance",
-      "url": "https://news.ycombinator.com/item?id=49828019",
-      "date": "2026-09-24T08:54:57+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: An ObjC-like compiler for Mac ARM, x86_64(Linux, Win), WASM, & others",
-      "url": "https://news.ycombinator.com/item?id=49730393",
-      "date": "2026-09-16T17:37:42+00:00",
       "source": "hackernews"
     },
     {
