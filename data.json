@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10",
+  "generated_at": "2026-10-11",
   "models": [
     {
       "name": "Step 5 Preview",
@@ -113,6 +113,12 @@
       "url": "https://www.reddit.com/r/CLine/comments/1wg7kkr/why_dont_you_have_referral_program_for_clinepass/",
       "date": "2026-09-14T16:04:14+00:00",
       "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
+      "url": "https://github.com/swimmingbrain/brainotes",
+      "date": "2026-10-09T18:48:41+00:00",
+      "source": "hackernews"
     },
     {
       "title": "StepFun opens Step5 Preview free for a week through OpenCode,Cline and Kilo Code",
