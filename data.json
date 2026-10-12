@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11",
+  "generated_at": "2026-10-12",
   "models": [
     {
       "name": "Step 5 Preview",
@@ -117,7 +117,19 @@
     {
       "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
       "url": "https://github.com/swimmingbrain/brainotes",
-      "date": "2026-10-09T18:48:41+00:00",
+      "date": "2026-10-11T23:22:29+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Ask HN: What to do with lots of spare compute in colocation?",
+      "url": "https://news.ycombinator.com/item?id=50045494",
+      "date": "2026-10-11T17:19:40+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Ask HN: How are you dealing with PR apocalypse?",
+      "url": "https://news.ycombinator.com/item?id=50020727",
+      "date": "2026-10-09T14:04:14+00:00",
       "source": "hackernews"
     },
     {
