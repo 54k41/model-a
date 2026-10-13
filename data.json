@@ -9,9 +9,123 @@
       "sources": [
         "StepFun opens Step5 Preview free for a week through OpenCode,Cline and Kilo Code"
       ]
+    },
+    {
+      "name": "Kimi K3",
+      "slug": "moonshotai/kimi-k3",
+      "url": "https://modelgrep.com/models/moonshotai/kimi-k3",
+      "score": 43.6,
+      "sources": [
+        "Kimi K3 is FREE in Cline Desktop for a limited time 🎉"
+      ]
+    },
+    {
+      "name": "Gemini 3.8 Flash",
+      "slug": "google/gemini-3.8-flash",
+      "url": "https://modelgrep.com/models/google/gemini-3.8-flash",
+      "score": 40.9,
+      "sources": [
+        "Gemini 3.8 Flash is now FREE in Cline ⚡"
+      ]
     }
   ],
   "posts": [
+    {
+      "title": "Introducing Connectors in Cline Desktop (Beta) 🚀",
+      "url": "https://www.reddit.com/r/CLine/comments/1x4xip1/introducing_connectors_in_cline_desktop_beta/",
+      "date": "2026-10-13T14:03:36+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Solar Mini 4 is now FREE in Cline",
+      "url": "https://www.reddit.com/r/CLine/comments/1x4x56w/solar_mini_4_is_now_free_in_cline/",
+      "date": "2026-10-13T13:49:08+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Introducing Cline Cloud Agents (Beta)",
+      "url": "https://www.reddit.com/r/CLine/comments/1x0xnrk/introducing_cline_cloud_agents_beta/",
+      "date": "2026-10-08T17:50:04+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Mistral Large 4 just beat Opus 5.5 and GPT-6 Astra on cybersecurity benchmarks",
+      "url": "https://www.reddit.com/r/CLine/comments/1wzt5us/mistral_large_4_just_beat_opus_55_and_gpt6_astra/",
+      "date": "2026-10-07T10:36:26+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Pareto 26.10 Preview is now available in Cline",
+      "url": "https://www.reddit.com/r/CLine/comments/1wz40m6/pareto_2610_preview_is_now_available_in_cline/",
+      "date": "2026-10-06T14:27:33+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
+      "title": "I'm building a game where your photos become dreams you can walk through. Here's how Cline handled its first feature",
+      "url": "https://www.reddit.com/r/CLine/comments/1wx3ld8/im_building_a_game_where_your_photos_become/",
+      "date": "2026-10-04T01:41:35+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Cline Desktop is now available on Linux",
+      "url": "https://www.reddit.com/r/CLine/comments/1wuhgf5/cline_desktop_is_now_available_on_linux/",
+      "date": "2026-09-30T21:31:58+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Pixel Canary (new stealth model) is now FREE in Cline",
+      "url": "https://www.reddit.com/r/CLine/comments/1wqkucr/pixel_canary_new_stealth_model_is_now_free_in/",
+      "date": "2026-09-26T08:01:47+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Someone explain, why is this happening exactly.",
+      "url": "https://www.reddit.com/r/CLine/comments/1wqgavg/someone_explain_why_is_this_happening_exactly/",
+      "date": "2026-09-26T03:41:28+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Gemini 3.8 Flash is now FREE in Cline ⚡",
+      "url": "https://www.reddit.com/r/CLine/comments/1wpyepq/gemini_38_flash_is_now_free_in_cline/",
+      "date": "2026-09-25T14:52:22+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Space Bunny Alpha is now FREE in Cline🐰",
+      "url": "https://www.reddit.com/r/CLine/comments/1wpsd1s/space_bunny_alpha_is_now_free_in_cline/",
+      "date": "2026-09-25T10:04:15+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Kimi K3 is FREE in Cline Desktop for a limited time 🎉",
+      "url": "https://www.reddit.com/r/CLine/comments/1wmb1co/kimi_k3_is_free_in_cline_desktop_for_a_limited/",
+      "date": "2026-09-21T12:12:43+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
+      "title": "We added Union Alpha (stealth model) to Cline for FREE",
+      "url": "https://www.reddit.com/r/CLine/comments/1wixdae/we_added_union_alpha_stealth_model_to_cline_for/",
+      "date": "2026-09-17T15:36:26+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
+      "title": "DeepSeek v4.1 Flash doesn't work",
+      "url": "https://www.reddit.com/r/CLine/comments/1wg9yfh/deepseek_v41_flash_doesnt_work/",
+      "date": "2026-09-14T17:28:18+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Introducing Cline Desktop: a native interface for coding with open weight models",
+      "url": "https://www.reddit.com/r/CLine/comments/1wg8pqc/introducing_cline_desktop_a_native_interface_for/",
+      "date": "2026-09-14T16:44:50+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Why don't you have referral program for ClinePass? It would be more incentive to get more users.",
+      "url": "https://www.reddit.com/r/CLine/comments/1wg7kkr/why_dont_you_have_referral_program_for_clinepass/",
+      "date": "2026-09-14T16:04:14+00:00",
+      "source": "reddit:r/CLine"
+    },
     {
       "title": "Show HN: Ever – A High-Level Language for Low-Level Purposes",
       "url": "https://github.com/evrlang/ever",
@@ -34,6 +148,18 @@
       "title": "StepFun opens Step5 Preview free for a week through OpenCode,Cline and Kilo Code",
       "url": "https://twitter.com/StepFun_ai/status/2108182763002278158",
       "date": "2026-10-08T16:23:00+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+      "url": "https://thoreaubasic.com/",
+      "date": "2026-10-03T07:28:54+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "40 years of writing code. I didn't see the end coming",
+      "url": "https://news.ycombinator.com/item?id=49921591",
+      "date": "2026-10-01T13:42:35+00:00",
       "source": "hackernews"
     },
     {
