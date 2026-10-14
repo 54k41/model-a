@@ -100,22 +100,10 @@
       "source": "reddit:r/CLine"
     },
     {
-      "title": "DeepSeek v4.1 Flash doesn't work",
-      "url": "https://www.reddit.com/r/CLine/comments/1wg9yfh/deepseek_v41_flash_doesnt_work/",
-      "date": "2026-09-14T17:28:18+00:00",
-      "source": "reddit:r/CLine"
-    },
-    {
-      "title": "Introducing Cline Desktop: a native interface for coding with open weight models",
-      "url": "https://www.reddit.com/r/CLine/comments/1wg8pqc/introducing_cline_desktop_a_native_interface_for/",
-      "date": "2026-09-14T16:44:50+00:00",
-      "source": "reddit:r/CLine"
-    },
-    {
-      "title": "Why don't you have referral program for ClinePass? It would be more incentive to get more users.",
-      "url": "https://www.reddit.com/r/CLine/comments/1wg7kkr/why_dont_you_have_referral_program_for_clinepass/",
-      "date": "2026-09-14T16:04:14+00:00",
-      "source": "reddit:r/CLine"
+      "title": "Show HN: Dub Anything – Dub videos in each actor's own voice",
+      "url": "https://github.com/swax/dub-anything",
+      "date": "2026-10-14T19:49:55+00:00",
+      "source": "hackernews"
     },
     {
       "title": "StepFun opens Step5 Preview free for a week through OpenCode,Cline and Kilo Code",
@@ -124,16 +112,22 @@
       "source": "hackernews"
     },
     {
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "date": "2026-10-02T20:00:15+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: What 482 hospitals charge vs. what insurers pay, from their own files",
+      "url": "https://www.billmender.com/hospital-prices",
+      "date": "2026-10-01T19:42:09+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "40 years of writing code. I didn't see the end coming",
       "url": "https://news.ycombinator.com/item?id=49921591",
       "date": "2026-10-01T13:42:35+00:00",
       "source": "hackernews"
-    },
-    {
-      "title": "Cline Desktop: An open-source app for open-weight models",
-      "url": "https://cline.bot/blog/cline-desktop-an-open-source-app-for-open-weight-models",
-      "date": "2026-09-14T09:30:27-07:00",
-      "source": "cline-blog"
     }
   ]
 }
