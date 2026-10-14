@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13",
+  "generated_at": "2026-10-14",
   "models": [
     {
       "name": "Step 5 Preview",
@@ -17,15 +17,6 @@
       "score": 43.6,
       "sources": [
         "Kimi K3 is FREE in Cline Desktop for a limited time 🎉"
-      ]
-    },
-    {
-      "name": "Gemini 3.8 Flash",
-      "slug": "google/gemini-3.8-flash",
-      "url": "https://modelgrep.com/models/google/gemini-3.8-flash",
-      "score": 40.9,
-      "sources": [
-        "Gemini 3.8 Flash is now FREE in Cline ⚡"
       ]
     }
   ],
