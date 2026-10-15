@@ -100,6 +100,18 @@
       "source": "reddit:r/CLine"
     },
     {
+      "title": "Open Source Discord",
+      "url": "https://news.ycombinator.com/item?id=50110020",
+      "date": "2026-10-15T20:51:17+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "A misbehaving test MCP server for stress-testing your MCP client",
+      "url": "https://news.ycombinator.com/item?id=50105780",
+      "date": "2026-10-15T16:11:41+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "Show HN: Face, a browser window over agents that keeps the plan in files",
       "url": "https://face.kodel.com.br",
       "date": "2026-10-15T12:29:09+00:00",
@@ -140,6 +152,12 @@
       "url": "https://news.ycombinator.com/item?id=49730393",
       "date": "2026-09-16T17:37:42+00:00",
       "source": "hackernews"
+    },
+    {
+      "title": "Cline Agents Harness Unlocks Benchmark-Leading Performance from NVIDIA Nemotron 3.5 Super VL",
+      "url": "https://cline.bot/blog/nvidia-nemotron-3-5-super-vl-cline-agent-harness",
+      "date": "2026-10-15T08:25:52-07:00",
+      "source": "cline-blog"
     }
   ]
 }
