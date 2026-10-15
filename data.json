@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14",
+  "generated_at": "2026-10-15",
   "models": [
     {
       "name": "Step 5 Preview",
@@ -100,6 +100,12 @@
       "source": "reddit:r/CLine"
     },
     {
+      "title": "Show HN: Face, a browser window over agents that keeps the plan in files",
+      "url": "https://face.kodel.com.br",
+      "date": "2026-10-15T12:29:09+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "Show HN: Dub Anything – Dub videos in each actor's own voice",
       "url": "https://github.com/swax/dub-anything",
       "date": "2026-10-14T19:49:55+00:00",
@@ -127,6 +133,12 @@
       "title": "40 years of writing code. I didn't see the end coming",
       "url": "https://news.ycombinator.com/item?id=49921591",
       "date": "2026-10-01T13:42:35+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: An ObjC-like compiler for Mac ARM, x86_64(Linux, Win), WASM, & others",
+      "url": "https://news.ycombinator.com/item?id=49730393",
+      "date": "2026-09-16T17:37:42+00:00",
       "source": "hackernews"
     }
   ]
