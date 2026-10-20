@@ -22,6 +22,12 @@
   ],
   "posts": [
     {
+      "title": "MiniMax M3.1 Flash is now FREE in Cline!",
+      "url": "https://www.reddit.com/r/CLine/comments/1xazhlu/minimax_m31_flash_is_now_free_in_cline/",
+      "date": "2026-10-20T18:07:10+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
       "title": "Cline Desktop now runs in the cloud! ☁️",
       "url": "https://www.reddit.com/r/CLine/comments/1x90h2y/cline_desktop_now_runs_in_the_cloud/",
       "date": "2026-10-18T11:03:00+00:00",
@@ -109,6 +115,12 @@
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "url": "https://news.ycombinator.com/item?id=50151036",
       "date": "2026-10-19T11:24:34+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Firmendaten: Parsed balance sheets for every Austrian company",
+      "url": "https://firmendaten.researchly.at/bilanzen/vergleichen",
+      "date": "2026-10-18T16:41:14+00:00",
       "source": "hackernews"
     },
     {
