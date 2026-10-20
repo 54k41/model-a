@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19",
+  "generated_at": "2026-10-20",
   "models": [
     {
       "name": "Step 5 Preview",
@@ -133,6 +133,12 @@
       "title": "Show HN: Cosplay as a tech lead, using gVisor to sandbox agents",
       "url": "https://github.com/SoftwareRenderer/MIKE",
       "date": "2026-10-18T01:49:34+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: GitGud – a free, open-source Git GUI with undo for any action",
+      "url": "https://github.com/zeuros/gitgud",
+      "date": "2026-10-17T15:49:39+00:00",
       "source": "hackernews"
     },
     {
