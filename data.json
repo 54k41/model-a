@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20",
+  "generated_at": "2026-10-21",
   "models": [
     {
       "name": "Step 5 Preview",
@@ -8,15 +8,6 @@
       "score": 43.7,
       "sources": [
         "StepFun opens Step5 Preview free for a week through OpenCode,Cline and Kilo Code"
-      ]
-    },
-    {
-      "name": "Kimi K3",
-      "slug": "moonshotai/kimi-k3",
-      "url": "https://modelgrep.com/models/moonshotai/kimi-k3",
-      "score": 43.6,
-      "sources": [
-        "Kimi K3 is FREE in Cline Desktop for a limited time 🎉"
       ]
     }
   ],
@@ -106,10 +97,22 @@
       "source": "reddit:r/CLine"
     },
     {
-      "title": "Kimi K3 is FREE in Cline Desktop for a limited time 🎉",
-      "url": "https://www.reddit.com/r/CLine/comments/1wmb1co/kimi_k3_is_free_in_cline_desktop_for_a_limited/",
-      "date": "2026-09-21T12:12:43+00:00",
-      "source": "reddit:r/CLine"
+      "title": "Show HN: Euspell – Spelling reform: an enginnering approach",
+      "url": "https://euspell.org/try/",
+      "date": "2026-10-21T14:06:18+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: TUI to manage firewall and HTTP server, in Rust",
+      "url": "https://github.com/ivankovic/stop-bots",
+      "date": "2026-10-21T13:10:55+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Peras – Pause Claude Code and Codex before they burn your weekly limit",
+      "url": "https://peras.vertias.eu/",
+      "date": "2026-10-21T13:01:26+00:00",
+      "source": "hackernews"
     },
     {
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
