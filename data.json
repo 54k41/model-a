@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22",
+  "generated_at": "2026-10-23",
   "models": [
     {
       "name": "Step 5 Preview",
@@ -104,6 +104,18 @@
       "url": "https://www.reddit.com/r/CLine/comments/1wpsd1s/space_bunny_alpha_is_now_free_in_cline/",
       "date": "2026-09-25T10:04:15+00:00",
       "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Show HN: Used REA to make a free, open-source clone of Arc Browser",
+      "url": "https://github.com/amsultan2010/radian-browser",
+      "date": "2026-10-23T13:20:35+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Pulse reached 8 contributors und 30 stars",
+      "url": "https://news.ycombinator.com/item?id=50205922",
+      "date": "2026-10-23T08:19:32+00:00",
+      "source": "hackernews"
     },
     {
       "title": "Show HN: A scroll-through subway ride to show how GLP-1s work in your body",
