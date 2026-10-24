@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23",
+  "generated_at": "2026-10-24",
   "models": [
     {
       "name": "Step 5 Preview",
@@ -106,57 +106,15 @@
       "source": "reddit:r/CLine"
     },
     {
-      "title": "Show HN: Used REA to make a free, open-source clone of Arc Browser",
-      "url": "https://github.com/amsultan2010/radian-browser",
-      "date": "2026-10-23T13:20:35+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Pulse reached 8 contributors und 30 stars",
-      "url": "https://news.ycombinator.com/item?id=50205922",
-      "date": "2026-10-23T08:19:32+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: A scroll-through subway ride to show how GLP-1s work in your body",
-      "url": "https://subway.bio1up.com/line/signal",
-      "date": "2026-10-22T13:53:29+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: I Rebuilt Del.icio.us",
-      "url": "https://webmark.ing/",
-      "date": "2026-10-22T13:14:49+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Open-source site base plans from any US address",
-      "url": "https://basesheet.site/",
-      "date": "2026-10-21T16:31:48+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Euspell – Spelling reform: an enginnering approach",
-      "url": "https://euspell.org/try/",
-      "date": "2026-10-21T14:06:18+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: TUI to manage firewall and HTTP server, in Rust",
-      "url": "https://github.com/ivankovic/stop-bots",
-      "date": "2026-10-21T13:10:55+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Peras – Pause Claude Code and Codex before they burn your weekly limit",
-      "url": "https://peras.vertias.eu/",
-      "date": "2026-10-21T13:01:26+00:00",
-      "source": "hackernews"
-    },
-    {
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "url": "https://news.ycombinator.com/item?id=50151036",
       "date": "2026-10-19T11:24:34+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Dub Anything – Dub videos in each actor's own voice",
+      "url": "https://github.com/swax/dub-anything",
+      "date": "2026-10-14T19:49:55+00:00",
       "source": "hackernews"
     },
     {
