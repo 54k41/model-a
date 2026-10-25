@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24",
+  "generated_at": "2026-10-25",
   "models": [
     {
       "name": "Step 5 Preview",
@@ -100,18 +100,6 @@
       "source": "reddit:r/CLine"
     },
     {
-      "title": "Space Bunny Alpha is now FREE in Cline🐰",
-      "url": "https://www.reddit.com/r/CLine/comments/1wpsd1s/space_bunny_alpha_is_now_free_in_cline/",
-      "date": "2026-09-25T10:04:15+00:00",
-      "source": "reddit:r/CLine"
-    },
-    {
-      "title": "Show HN: Euspell – Spelling reform: an enginnering approach",
-      "url": "https://euspell.org/try/",
-      "date": "2026-10-21T14:06:18+00:00",
-      "source": "hackernews"
-    },
-    {
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "url": "https://news.ycombinator.com/item?id=50151036",
       "date": "2026-10-19T11:24:34+00:00",
@@ -121,6 +109,12 @@
       "title": "Show HN: Dub Anything – Dub videos in each actor's own voice",
       "url": "https://github.com/swax/dub-anything",
       "date": "2026-10-14T19:49:55+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
+      "url": "https://github.com/swimmingbrain/brainotes",
+      "date": "2026-10-11T23:22:29+00:00",
       "source": "hackernews"
     },
     {
