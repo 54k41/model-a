@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25",
+  "generated_at": "2026-10-26",
   "models": [
     {
       "name": "Step 5 Preview",
@@ -21,6 +21,12 @@
     }
   ],
   "posts": [
+    {
+      "title": "5 New Models Now FREE in Cline 🚀",
+      "url": "https://www.reddit.com/r/CLine/comments/1xfq6um/5_new_models_now_free_in_cline/",
+      "date": "2026-10-26T07:28:33+00:00",
+      "source": "reddit:r/CLine"
+    },
     {
       "title": "MiniMax M3.1 Flash is now FREE in Cline!",
       "url": "https://www.reddit.com/r/CLine/comments/1xazhlu/minimax_m31_flash_is_now_free_in_cline/",
@@ -82,39 +88,15 @@
       "source": "reddit:r/CLine"
     },
     {
-      "title": "Pixel Canary (new stealth model) is now FREE in Cline",
-      "url": "https://www.reddit.com/r/CLine/comments/1wqkucr/pixel_canary_new_stealth_model_is_now_free_in/",
-      "date": "2026-09-26T08:01:47+00:00",
-      "source": "reddit:r/CLine"
-    },
-    {
-      "title": "Someone explain, why is this happening exactly.",
-      "url": "https://www.reddit.com/r/CLine/comments/1wqgavg/someone_explain_why_is_this_happening_exactly/",
-      "date": "2026-09-26T03:41:28+00:00",
-      "source": "reddit:r/CLine"
+      "title": "Show HN: Tabverse – a free, open-source, with self-hostable server Workona clone",
+      "url": "https://news.ycombinator.com/item?id=50240121",
+      "date": "2026-10-26T07:04:15+00:00",
+      "source": "hackernews"
     },
     {
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "url": "https://news.ycombinator.com/item?id=50151036",
       "date": "2026-10-19T11:24:34+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: MeetCap – Free on-device meeting transcription your AI agent can run",
-      "url": "https://meetcap.seacen.dev/",
-      "date": "2026-10-18T13:21:48+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Dub Anything – Dub videos in each actor's own voice",
-      "url": "https://github.com/swax/dub-anything",
-      "date": "2026-10-14T19:49:55+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
-      "url": "https://github.com/swimmingbrain/brainotes",
-      "date": "2026-10-11T23:22:29+00:00",
       "source": "hackernews"
     },
     {
