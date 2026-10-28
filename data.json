@@ -2,21 +2,21 @@
   "generated_at": "2026-10-28",
   "models": [
     {
-      "name": "Step 5 Preview",
-      "slug": "stepfun/step-5-preview",
-      "url": "https://modelgrep.com/models/stepfun/step-5-preview",
-      "score": 43.7,
-      "sources": [
-        "StepFun opens Step5 Preview free for a week through OpenCode,Cline and Kilo Code"
-      ]
-    },
-    {
       "name": "MiniMax M3.1 Flash",
       "slug": "minimax/minimax-m3.1-flash",
       "url": "https://modelgrep.com/models/minimax/minimax-m3.1-flash",
-      "score": 42.7,
+      "score": 28.9,
       "sources": [
         "MiniMax M3.1 Flash is now FREE in Cline!"
+      ]
+    },
+    {
+      "name": "Step 5 Preview",
+      "slug": "stepfun/step-5-preview",
+      "url": "https://modelgrep.com/models/stepfun/step-5-preview",
+      "score": 28.5,
+      "sources": [
+        "StepFun opens Step5 Preview free for a week through OpenCode,Cline and Kilo Code"
       ]
     }
   ],
@@ -88,15 +88,9 @@
       "source": "reddit:r/CLine"
     },
     {
-      "title": "Show HN: I built a Lovable Alternative that runs in the browser",
-      "url": "https://playplanet.dev/",
-      "date": "2026-10-27T16:47:20+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Crulon – Business phone where AI does the work, humans make the calls",
-      "url": "https://crulon.ai/#talk",
-      "date": "2026-10-27T16:10:26+00:00",
+      "title": "A garbage collector for LLM context windows, written in Rust",
+      "url": "https://news.ycombinator.com/item?id=50274683",
+      "date": "2026-10-28T14:52:56+00:00",
       "source": "hackernews"
     },
     {
@@ -106,21 +100,9 @@
       "source": "hackernews"
     },
     {
-      "title": "Show HN: Tabverse – a free, open-source, with self-hostable server Workona clone",
-      "url": "https://news.ycombinator.com/item?id=50240121",
-      "date": "2026-10-26T07:04:15+00:00",
-      "source": "hackernews"
-    },
-    {
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "url": "https://news.ycombinator.com/item?id=50151036",
       "date": "2026-10-19T11:24:34+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Dub Anything – Dub videos in each actor's own voice",
-      "url": "https://github.com/swax/dub-anything",
-      "date": "2026-10-14T19:49:55+00:00",
       "source": "hackernews"
     },
     {
