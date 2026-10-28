@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27",
+  "generated_at": "2026-10-28",
   "models": [
     {
       "name": "Step 5 Preview",
@@ -88,6 +88,24 @@
       "source": "reddit:r/CLine"
     },
     {
+      "title": "Show HN: I built a Lovable Alternative that runs in the browser",
+      "url": "https://playplanet.dev/",
+      "date": "2026-10-27T16:47:20+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Crulon – Business phone where AI does the work, humans make the calls",
+      "url": "https://crulon.ai/#talk",
+      "date": "2026-10-27T16:10:26+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Aigent-OS, a Claude Code harness that clears and resumes",
+      "url": "https://github.com/wrg32786/aigent-os",
+      "date": "2026-10-27T16:10:01+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "Show HN: Tabverse – a free, open-source, with self-hostable server Workona clone",
       "url": "https://news.ycombinator.com/item?id=50240121",
       "date": "2026-10-26T07:04:15+00:00",
@@ -110,6 +128,18 @@
       "url": "https://twitter.com/StepFun_ai/status/2108182763002278158",
       "date": "2026-10-08T16:23:00+00:00",
       "source": "hackernews"
+    },
+    {
+      "title": "11,840 TPS on a single GPU",
+      "url": "https://cline.bot/blog/11-840-tps-on-a-single-gpu",
+      "date": "2026-10-27T12:12:16-07:00",
+      "source": "cline-blog"
+    },
+    {
+      "title": "Building Faster AI Agents with Jev Decision Models and Cline",
+      "url": "https://cline.bot/blog/jev-decision-models-ai-agents-cline",
+      "date": "2026-10-27T09:32:35-07:00",
+      "source": "cline-blog"
     },
     {
       "title": "Cline Agents Harness Unlocks Benchmark-Leading Performance from NVIDIA Nemotron 3.5 Super VL",
