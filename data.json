@@ -22,6 +22,12 @@
   ],
   "posts": [
     {
+      "title": "Cline Desktop v0.0.49 is out with some major updates 🚀",
+      "url": "https://www.reddit.com/r/CLine/comments/1xie7kn/cline_desktop_v0049_is_out_with_some_major_updates/",
+      "date": "2026-10-29T08:22:40+00:00",
+      "source": "reddit:r/CLine"
+    },
+    {
       "title": "5 New Models Now FREE in Cline 🚀",
       "url": "https://www.reddit.com/r/CLine/comments/1xfq6um/5_new_models_now_free_in_cline/",
       "date": "2026-10-26T07:28:33+00:00",
@@ -86,6 +92,30 @@
       "url": "https://www.reddit.com/r/CLine/comments/1wuhgf5/cline_desktop_is_now_available_on_linux/",
       "date": "2026-09-30T21:31:58+00:00",
       "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Show HN: Nouli – A multi-turn decision graph harness for System One models",
+      "url": "https://github.com/standing-desks/nouli",
+      "date": "2026-10-29T13:12:44+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Ask HN: Are Apple app reviewers sharing app ideas?",
+      "url": "https://news.ycombinator.com/item?id=50286034",
+      "date": "2026-10-29T08:32:07+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Alignment Interview Challenge",
+      "url": "https://docloop.com/careers/engineering-alignment-quiz",
+      "date": "2026-10-29T06:58:46+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Fabivo – Furniture design from a photo to a numbered cut list",
+      "url": "https://www.fabivo.app/en",
+      "date": "2026-10-29T05:21:10+00:00",
+      "source": "hackernews"
     },
     {
       "title": "A garbage collector for LLM context windows, written in Rust",
