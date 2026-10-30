@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-10-30",
   "models": [
     {
       "name": "MiniMax M3.1 Flash",
@@ -121,6 +121,12 @@
       "title": "A garbage collector for LLM context windows, written in Rust",
       "url": "https://news.ycombinator.com/item?id=50274683",
       "date": "2026-10-28T14:52:56+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Crulon – Business phone where AI does the work, humans make the calls",
+      "url": "https://crulon.ai/#talk",
+      "date": "2026-10-27T16:10:26+00:00",
       "source": "hackernews"
     },
     {
