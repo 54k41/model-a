@@ -94,39 +94,15 @@
       "source": "reddit:r/CLine"
     },
     {
+      "title": "The test was green. It had never once done what it claimed",
+      "url": "https://github.com/jonesd/xudanu/blob/main/essays/001-dark-line-forensics.md",
+      "date": "2026-10-30T12:46:34+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "Show HN: Nouli – A multi-turn decision graph harness for System One models",
       "url": "https://github.com/standing-desks/nouli",
       "date": "2026-10-29T13:12:44+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Ask HN: Are Apple app reviewers sharing app ideas?",
-      "url": "https://news.ycombinator.com/item?id=50286034",
-      "date": "2026-10-29T08:32:07+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Alignment Interview Challenge",
-      "url": "https://docloop.com/careers/engineering-alignment-quiz",
-      "date": "2026-10-29T06:58:46+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Fabivo – Furniture design from a photo to a numbered cut list",
-      "url": "https://www.fabivo.app/en",
-      "date": "2026-10-29T05:21:10+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "A garbage collector for LLM context windows, written in Rust",
-      "url": "https://news.ycombinator.com/item?id=50274683",
-      "date": "2026-10-28T14:52:56+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Crulon – Business phone where AI does the work, humans make the calls",
-      "url": "https://crulon.ai/#talk",
-      "date": "2026-10-27T16:10:26+00:00",
       "source": "hackernews"
     },
     {
