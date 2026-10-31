@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30",
+  "generated_at": "2026-10-31",
   "models": [
     {
       "name": "MiniMax M3.1 Flash",
@@ -88,10 +88,10 @@
       "source": "reddit:r/CLine"
     },
     {
-      "title": "Cline Desktop is now available on Linux",
-      "url": "https://www.reddit.com/r/CLine/comments/1wuhgf5/cline_desktop_is_now_available_on_linux/",
-      "date": "2026-09-30T21:31:58+00:00",
-      "source": "reddit:r/CLine"
+      "title": "Show HN: Pollsight – a simple tool to aid ballot research",
+      "url": "https://pollsight.napsty.com",
+      "date": "2026-10-30T17:57:00+00:00",
+      "source": "hackernews"
     },
     {
       "title": "The test was green. It had never once done what it claimed",
@@ -103,6 +103,12 @@
       "title": "Show HN: Nouli – A multi-turn decision graph harness for System One models",
       "url": "https://github.com/standing-desks/nouli",
       "date": "2026-10-29T13:12:44+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Ask HN: Are Apple app reviewers sharing app ideas?",
+      "url": "https://news.ycombinator.com/item?id=50286034",
+      "date": "2026-10-29T08:32:07+00:00",
       "source": "hackernews"
     },
     {
