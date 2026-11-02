@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01",
+  "generated_at": "2026-11-02",
   "models": [
     {
       "name": "MiniMax M3.1 Flash",
@@ -92,6 +92,12 @@
       "url": "https://www.reddit.com/r/CLine/comments/1wx3ld8/im_building_a_game_where_your_photos_become/",
       "date": "2026-10-04T01:41:35+00:00",
       "source": "reddit:r/CLine"
+    },
+    {
+      "title": "Ask HN: Why does my GitHub project only have 160 stars?",
+      "url": "https://news.ycombinator.com/item?id=50328867",
+      "date": "2026-11-01T19:32:42+00:00",
+      "source": "hackernews"
     },
     {
       "title": "Show HN: Shroom – screen recording and sharing, your own Cloudflare, 10M setup",
