@@ -94,21 +94,27 @@
       "source": "reddit:r/CLine"
     },
     {
-      "title": "Ask HN: Why does my GitHub project only have 160 stars?",
-      "url": "https://news.ycombinator.com/item?id=50328867",
-      "date": "2026-11-01T19:32:42+00:00",
+      "title": "Show HN: Devpush – Self-Hosted PaaS for Docker Compose",
+      "url": "https://devpu.sh/",
+      "date": "2026-11-02T15:31:23+00:00",
       "source": "hackernews"
     },
     {
-      "title": "Show HN: Shroom – screen recording and sharing, your own Cloudflare, 10M setup",
-      "url": "https://shroom.am",
-      "date": "2026-11-01T13:53:13+00:00",
+      "title": "Show HN: Nomos – A Go harness that stops coding agents from cheating on tests",
+      "url": "https://github.com/mgantlett/nomos",
+      "date": "2026-11-02T14:35:12+00:00",
       "source": "hackernews"
     },
     {
-      "title": "Show HN: Fabivo – Furniture design from a photo to a numbered cut list",
-      "url": "https://www.fabivo.app/en",
-      "date": "2026-10-29T05:21:10+00:00",
+      "title": "Show HN: Othismo, a Runtime for Sandboxed Objects",
+      "url": "https://othismo.com",
+      "date": "2026-10-31T20:23:15+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Ask HN: Are Apple app reviewers sharing app ideas?",
+      "url": "https://news.ycombinator.com/item?id=50286034",
+      "date": "2026-10-29T08:32:07+00:00",
       "source": "hackernews"
     },
     {
