@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02",
+  "generated_at": "2026-11-03",
   "models": [
     {
       "name": "MiniMax M3.1 Flash",
@@ -85,12 +85,6 @@
       "title": "Pareto 26.10 Preview is now available in Cline",
       "url": "https://www.reddit.com/r/CLine/comments/1wz40m6/pareto_2610_preview_is_now_available_in_cline/",
       "date": "2026-10-06T14:27:33+00:00",
-      "source": "reddit:r/CLine"
-    },
-    {
-      "title": "I'm building a game where your photos become dreams you can walk through. Here's how Cline handled its first feature",
-      "url": "https://www.reddit.com/r/CLine/comments/1wx3ld8/im_building_a_game_where_your_photos_become/",
-      "date": "2026-10-04T01:41:35+00:00",
       "source": "reddit:r/CLine"
     },
     {
