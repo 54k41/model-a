@@ -88,10 +88,16 @@
       "source": "reddit:r/CLine"
     },
     {
-      "title": "Pareto 26.10 Preview is now available in Cline",
-      "url": "https://www.reddit.com/r/CLine/comments/1wz40m6/pareto_2610_preview_is_now_available_in_cline/",
-      "date": "2026-10-06T14:27:33+00:00",
-      "source": "reddit:r/CLine"
+      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+      "url": "https://firenook.dev/",
+      "date": "2026-11-05T13:07:29+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Vivonco – match patient's cancer reports to targeted drugs and trials",
+      "url": "https://vivonco.com/",
+      "date": "2026-11-05T11:56:11+00:00",
+      "source": "hackernews"
     },
     {
       "title": "Show HN: My compact, bio inspired distributed edge detection algorithm",
