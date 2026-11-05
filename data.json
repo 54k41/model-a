@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04",
+  "generated_at": "2026-11-05",
   "models": [
     {
       "name": "MiniMax M3.1 Flash",
@@ -94,6 +94,30 @@
       "source": "reddit:r/CLine"
     },
     {
+      "title": "Show HN: My compact, bio inspired distributed edge detection algorithm",
+      "url": "https://github.com/RenderBear/haci",
+      "date": "2026-11-04T21:34:49+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Zero-axiom Lean 4 proof that Yang-Mills on R^4 is a \"round square\"",
+      "url": "https://zenodo.org/records/23918639/files/RoundSquare.lean?download=1",
+      "date": "2026-11-04T21:20:31+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "date": "2026-11-04T17:31:53+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: A browser studio with a SPICE-modeled Juno 106 (playing Nightcall)",
+      "url": "https://browsertape.com/metro#share=7bcc8ad92b7a4f458d924e3ea7ebf8b5",
+      "date": "2026-11-03T21:14:36+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "Show HN: Vectoys – 3D devices for landing pages, drawn as plain SVG",
       "url": "https://vectoys.com/",
       "date": "2026-11-03T06:47:06+00:00",
@@ -109,6 +133,12 @@
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "url": "https://news.ycombinator.com/item?id=50151036",
       "date": "2026-10-19T11:24:34+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
+      "url": "https://github.com/swimmingbrain/brainotes",
+      "date": "2026-10-11T23:22:29+00:00",
       "source": "hackernews"
     },
     {
