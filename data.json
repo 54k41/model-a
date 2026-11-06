@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05",
+  "generated_at": "2026-11-06",
   "models": [
     {
       "name": "MiniMax M3.1 Flash",
@@ -88,9 +88,15 @@
       "source": "reddit:r/CLine"
     },
     {
-      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
-      "url": "https://firenook.dev/",
-      "date": "2026-11-05T13:07:29+00:00",
+      "title": "Show HN: Ski Voice-First Multilingual Neutral Coding Harness",
+      "url": "https://justski.it/",
+      "date": "2026-11-05T18:56:40+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: A terminal viewer for plain text data files (JSON,YAML,CSV,XML,)",
+      "url": "https://aless.tabnas.dev/",
+      "date": "2026-11-05T18:03:21+00:00",
       "source": "hackernews"
     },
     {
