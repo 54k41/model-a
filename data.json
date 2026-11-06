@@ -82,10 +82,16 @@
       "source": "reddit:r/CLine"
     },
     {
-      "title": "Mistral Large 4 just beat Opus 5.5 and GPT-6 Astra on cybersecurity benchmarks",
-      "url": "https://www.reddit.com/r/CLine/comments/1wzt5us/mistral_large_4_just_beat_opus_55_and_gpt6_astra/",
-      "date": "2026-10-07T10:36:26+00:00",
-      "source": "reddit:r/CLine"
+      "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+      "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+      "date": "2026-11-06T15:07:47+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: KeepPlain – ask your coding agent why a line of code exists",
+      "url": "https://keepplain.com",
+      "date": "2026-11-06T13:22:34+00:00",
+      "source": "hackernews"
     },
     {
       "title": "Show HN: Ski Voice-First Multilingual Neutral Coding Harness",
@@ -124,33 +130,9 @@
       "source": "hackernews"
     },
     {
-      "title": "Show HN: A browser studio with a SPICE-modeled Juno 106 (playing Nightcall)",
-      "url": "https://browsertape.com/metro#share=7bcc8ad92b7a4f458d924e3ea7ebf8b5",
-      "date": "2026-11-03T21:14:36+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Vectoys – 3D devices for landing pages, drawn as plain SVG",
-      "url": "https://vectoys.com/",
-      "date": "2026-11-03T06:47:06+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Nomos – A Go harness that stops coding agents from cheating on tests",
-      "url": "https://github.com/mgantlett/nomos",
-      "date": "2026-11-02T14:35:12+00:00",
-      "source": "hackernews"
-    },
-    {
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "url": "https://news.ycombinator.com/item?id=50151036",
       "date": "2026-10-19T11:24:34+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
-      "url": "https://github.com/swimmingbrain/brainotes",
-      "date": "2026-10-11T23:22:29+00:00",
       "source": "hackernews"
     },
     {
