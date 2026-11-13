@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-12",
+  "generated_at": "2026-11-13",
   "models": [],
   "posts": [
+    {
+      "title": "Show HN: A shared live Etch A Sketch – one continuous line, or draw via API",
+      "url": "https://graciegould.com/etch-a-sketch-live",
+      "date": "2026-11-13T01:20:47+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "I'm genuinely disappointed in our most visible tech leadership",
+      "url": "https://news.ycombinator.com/item?id=50471061",
+      "date": "2026-11-12T17:36:51+00:00",
+      "source": "hackernews"
+    },
     {
       "title": "Show HN: Stop the app permission popups on macOS",
       "url": "https://github.com/piercefreeman/trustme",
@@ -12,6 +24,12 @@
       "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
       "url": "https://github.com/klad-app/klad",
       "date": "2026-11-11T16:00:50+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+      "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+      "date": "2026-11-06T15:07:47+00:00",
       "source": "hackernews"
     },
     {
