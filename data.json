@@ -3,6 +3,24 @@
   "models": [],
   "posts": [
     {
+      "title": "Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call",
+      "url": "https://github.com/langfuse/langfuse/tree/main/ai-gateway",
+      "date": "2026-11-13T15:10:20+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Deccy – software engineering as decision management",
+      "url": "https://edawise.com/deccy-framework/",
+      "date": "2026-11-13T13:44:15+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: AI-drop project – drop traffic fast from misbehaving crawlers (AGPL)",
+      "url": "https://rocketgit.com/user/catalinux/ai-drop",
+      "date": "2026-11-13T08:05:44+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "Show HN: A shared live Etch A Sketch – one continuous line, or draw via API",
       "url": "https://graciegould.com/etch-a-sketch-live",
       "date": "2026-11-13T01:20:47+00:00",
@@ -21,6 +39,12 @@
       "source": "hackernews"
     },
     {
+      "title": "Show HN: Handoffs, a Claude Code mod that puts each ask from Claude on a card",
+      "url": "https://github.com/ghosthat-studio/handoffs",
+      "date": "2026-11-11T18:42:57+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
       "url": "https://github.com/klad-app/klad",
       "date": "2026-11-11T16:00:50+00:00",
@@ -30,6 +54,12 @@
       "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
       "url": "https://github.com/zalando-incubator/agentic-identity-broker",
       "date": "2026-11-06T15:07:47+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "date": "2026-10-19T11:24:34+00:00",
       "source": "hackernews"
     },
     {
