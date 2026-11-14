@@ -3,57 +3,21 @@
   "models": [],
   "posts": [
     {
-      "title": "Using LLMs outside of reflection is an anti-pattern",
-      "url": "https://news.ycombinator.com/item?id=50489240",
-      "date": "2026-11-13T20:32:40+00:00",
+      "title": "Show HN: Scatter – better way to learn new things with AI",
+      "url": "https://www.scatter.study/",
+      "date": "2026-11-14T15:11:47+00:00",
       "source": "hackernews"
     },
     {
-      "title": "Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call",
-      "url": "https://github.com/langfuse/langfuse/tree/main/ai-gateway",
-      "date": "2026-11-13T15:10:20+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Deccy – software engineering as decision management",
-      "url": "https://edawise.com/deccy-framework/",
-      "date": "2026-11-13T13:44:15+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "I'm genuinely disappointed in our most visible tech leadership",
-      "url": "https://news.ycombinator.com/item?id=50471061",
-      "date": "2026-11-12T17:36:51+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Handoffs, a Claude Code mod that puts each ask from Claude on a card",
-      "url": "https://github.com/ghosthat-studio/handoffs",
-      "date": "2026-11-11T18:42:57+00:00",
+      "title": "Show HN: Yet another agent manager (but we needed it)",
+      "url": "https://varinomics.com/logonomic/",
+      "date": "2026-11-14T13:44:19+00:00",
       "source": "hackernews"
     },
     {
       "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
       "url": "https://github.com/klad-app/klad",
       "date": "2026-11-11T16:00:50+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-      "url": "https://github.com/zalando-incubator/agentic-identity-broker",
-      "date": "2026-11-06T15:07:47+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "url": "https://news.ycombinator.com/item?id=50368804",
-      "date": "2026-11-04T17:31:53+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "url": "https://news.ycombinator.com/item?id=50151036",
-      "date": "2026-10-19T11:24:34+00:00",
       "source": "hackernews"
     },
     {
@@ -66,12 +30,6 @@
       "title": "Building Faster AI Agents with Jev Decision Models and Cline",
       "url": "https://cline.bot/blog/jev-decision-models-ai-agents-cline",
       "date": "2026-10-27T09:32:35-07:00",
-      "source": "cline-blog"
-    },
-    {
-      "title": "Cline Agents Harness Unlocks Benchmark-Leading Performance from NVIDIA Nemotron 3.5 Super VL",
-      "url": "https://cline.bot/blog/nvidia-nemotron-3-5-super-vl-cline-agent-harness",
-      "date": "2026-10-15T08:25:52-07:00",
       "source": "cline-blog"
     }
   ]
