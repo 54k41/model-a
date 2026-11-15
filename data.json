@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-11-14",
+  "generated_at": "2026-11-15",
   "models": [],
   "posts": [
+    {
+      "title": "Show HN: Paintpot – Kid-friendly MSPaint clone for Linux",
+      "url": "https://github.com/marktbaldridge/paintpot/",
+      "date": "2026-11-14T21:56:40+00:00",
+      "source": "hackernews"
+    },
     {
       "title": "Show HN: Scatter – better way to learn new things with AI",
       "url": "https://www.scatter.study/",
@@ -18,6 +24,12 @@
       "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
       "url": "https://github.com/klad-app/klad",
       "date": "2026-11-11T16:00:50+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "date": "2026-11-04T17:31:53+00:00",
       "source": "hackernews"
     },
     {
