@@ -3,51 +3,15 @@
   "models": [],
   "posts": [
     {
-      "title": "Show HN: profiler-md converts performance profiles to Markdown",
-      "url": "https://github.com/TomerAberbach/profiler-md",
-      "date": "2026-11-15T16:04:51+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Paintpot – Kid-friendly MSPaint clone for Linux",
-      "url": "https://github.com/marktbaldridge/paintpot/",
-      "date": "2026-11-14T21:56:40+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Scatter – better way to learn new things with AI",
-      "url": "https://www.scatter.study/",
-      "date": "2026-11-14T15:11:47+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Yet another agent manager (but we needed it)",
-      "url": "https://varinomics.com/logonomic/",
-      "date": "2026-11-14T13:44:19+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Using LLMs outside of reflection is an anti-pattern",
-      "url": "https://news.ycombinator.com/item?id=50489240",
-      "date": "2026-11-13T20:32:40+00:00",
+      "title": "Show HN: Jevmem – Auto Tracked Project Rules for Claude Code, Codex and Cursor",
+      "url": "https://github.com/Avinash-jetwani/jevmem",
+      "date": "2026-11-16T15:00:14+00:00",
       "source": "hackernews"
     },
     {
       "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
       "url": "https://github.com/klad-app/klad",
       "date": "2026-11-11T16:00:50+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-      "url": "https://github.com/zalando-incubator/agentic-identity-broker",
-      "date": "2026-11-06T15:07:47+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "url": "https://news.ycombinator.com/item?id=50368804",
-      "date": "2026-11-04T17:31:53+00:00",
       "source": "hackernews"
     },
     {
