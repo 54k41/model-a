@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15",
+  "generated_at": "2026-11-16",
   "models": [],
   "posts": [
     {
@@ -42,6 +42,12 @@
       "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
       "url": "https://github.com/zalando-incubator/agentic-identity-broker",
       "date": "2026-11-06T15:07:47+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "date": "2026-11-04T17:31:53+00:00",
       "source": "hackernews"
     },
     {
