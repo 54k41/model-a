@@ -3,6 +3,30 @@
   "models": [],
   "posts": [
     {
+      "title": "Show HN: Revix AI – PR review against the standards your repo follows",
+      "url": "https://www.revix.ai",
+      "date": "2026-11-17T14:11:52+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Wake, see what Claude Code did and where the tokens went",
+      "url": "https://rcruz.dev/wake/",
+      "date": "2026-11-17T10:41:09+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: LingDongNews, a small desktop news ticker for your own feeds",
+      "url": "https://github.com/yellinzero/lingdong-news/blob/main/README.en.md",
+      "date": "2026-11-17T10:15:32+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Harness for building/cloning SaaS using open-weight models",
+      "url": "https://neander.ai/",
+      "date": "2026-11-17T07:21:58+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "Show HN: Jevmem – Auto Tracked Project Rules for Claude Code, Codex and Cursor",
       "url": "https://github.com/Avinash-jetwani/jevmem",
       "date": "2026-11-16T15:00:14+00:00",
@@ -21,9 +45,21 @@
       "source": "hackernews"
     },
     {
+      "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+      "url": "https://github.com/ZigaoWang/zigzag",
+      "date": "2026-11-14T13:17:10+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
       "url": "https://github.com/klad-app/klad",
       "date": "2026-11-11T16:00:50+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: TimeScroll – an open-source, local replacement for Rewind on Mac",
+      "url": "https://github.com/XInTheDark/TimeScrollApp",
+      "date": "2026-11-09T11:19:39+00:00",
       "source": "hackernews"
     },
     {
