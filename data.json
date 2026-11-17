@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16",
+  "generated_at": "2026-11-17",
   "models": [],
   "posts": [
     {
@@ -9,9 +9,27 @@
       "source": "hackernews"
     },
     {
+      "title": "Show HN: Scatter – better way to learn new things with AI",
+      "url": "https://www.scatter.study/",
+      "date": "2026-11-14T15:11:47+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Yet another agent manager (but we needed it)",
+      "url": "https://varinomics.com/logonomic/",
+      "date": "2026-11-14T13:44:19+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
       "url": "https://github.com/klad-app/klad",
       "date": "2026-11-11T16:00:50+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "date": "2026-10-19T11:24:34+00:00",
       "source": "hackernews"
     },
     {
