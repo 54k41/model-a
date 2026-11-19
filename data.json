@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18",
+  "generated_at": "2026-11-19",
   "models": [],
   "posts": [
     {
@@ -12,6 +12,12 @@
       "title": "Claude Gets Hella Paranoid",
       "url": "https://news.ycombinator.com/item?id=50543947",
       "date": "2026-11-18T09:24:58+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Harness for building/cloning SaaS using open-weight models",
+      "url": "https://neander.ai/",
+      "date": "2026-11-17T07:21:58+00:00",
       "source": "hackernews"
     },
     {
