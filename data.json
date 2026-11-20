@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19",
+  "generated_at": "2026-11-20",
   "models": [],
   "posts": [
     {
@@ -12,6 +12,12 @@
       "title": "Claude Gets Hella Paranoid",
       "url": "https://news.ycombinator.com/item?id=50543947",
       "date": "2026-11-18T09:24:58+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Revix AI – PR review against the standards your repo follows",
+      "url": "https://www.revix.ai",
+      "date": "2026-11-17T14:11:52+00:00",
       "source": "hackernews"
     },
     {
@@ -43,6 +49,12 @@
       "url": "https://github.com/klad-app/klad",
       "date": "2026-11-11T16:00:50+00:00",
       "source": "hackernews"
+    },
+    {
+      "title": "Cline-Bench: Faithful and Fair Evaluation of Agents on Real User Requests",
+      "url": "https://cline.bot/blog/cline-bench-faithful-and-fair-evaluation-of-agents-on-real-user-requests",
+      "date": "2026-11-19T10:43:34-08:00",
+      "source": "cline-blog"
     },
     {
       "title": "11,840 TPS on a single GPU",
