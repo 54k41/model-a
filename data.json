@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-11-21",
+  "generated_at": "2026-11-22",
   "models": [],
   "posts": [
+    {
+      "title": "Show HN: Ripcloc – cloc every edit your agent makes",
+      "url": "https://github.com/alfredjeanlab/ripcloc",
+      "date": "2026-11-21T20:38:29+00:00",
+      "source": "hackernews"
+    },
     {
       "title": "Show HN: Klistra – Make launch videos and product demos, all in one AI studio",
       "url": "https://klistra.ai",
