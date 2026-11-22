@@ -3,45 +3,21 @@
   "models": [],
   "posts": [
     {
-      "title": "Show HN: Ripcloc – cloc every edit your agent makes",
-      "url": "https://github.com/alfredjeanlab/ripcloc",
-      "date": "2026-11-21T20:38:29+00:00",
+      "title": "Show HN: TripleClick – 220-line Mac menu bar app for trackpad middle click",
+      "url": "https://github.com/wilu222/tripleclick",
+      "date": "2026-11-22T16:30:15+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Coma – Bilingual ES/EN language with LLVM back end and C runtime",
+      "url": "https://news.ycombinator.com/item?id=50598756",
+      "date": "2026-11-22T11:49:14+00:00",
       "source": "hackernews"
     },
     {
       "title": "Show HN: Klistra – Make launch videos and product demos, all in one AI studio",
       "url": "https://klistra.ai",
       "date": "2026-11-21T15:06:53+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Claude Gets Hella Paranoid",
-      "url": "https://news.ycombinator.com/item?id=50543947",
-      "date": "2026-11-18T09:24:58+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Revix AI – PR review against the standards your repo follows",
-      "url": "https://www.revix.ai",
-      "date": "2026-11-17T14:11:52+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
-      "url": "https://github.com/ZigaoWang/zigzag",
-      "date": "2026-11-14T13:17:10+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "I'm genuinely disappointed in our most visible tech leadership",
-      "url": "https://news.ycombinator.com/item?id=50471061",
-      "date": "2026-11-12T17:36:51+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-      "url": "https://github.com/klad-app/klad",
-      "date": "2026-11-11T16:00:50+00:00",
       "source": "hackernews"
     },
     {
