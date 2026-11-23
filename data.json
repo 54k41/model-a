@@ -3,6 +3,12 @@
   "models": [],
   "posts": [
     {
+      "title": "Show HN: Game to train my intuition about the world",
+      "url": "https://play.neilkakkar.com/finish-the-line/",
+      "date": "2026-11-23T18:31:07+00:00",
+      "source": "hackernews"
+    },
+    {
       "title": "Show HN: TripleClick – 220-line Mac menu bar app for trackpad middle click",
       "url": "https://github.com/wilu222/tripleclick",
       "date": "2026-11-22T16:30:15+00:00",
@@ -18,6 +24,18 @@
       "title": "Show HN: Klistra – Make launch videos and product demos, all in one AI studio",
       "url": "https://klistra.ai",
       "date": "2026-11-21T15:06:53+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Harness for building/cloning SaaS using open-weight models",
+      "url": "https://neander.ai/",
+      "date": "2026-11-17T07:21:58+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+      "url": "https://github.com/ZigaoWang/zigzag",
+      "date": "2026-11-14T13:17:10+00:00",
       "source": "hackernews"
     },
     {
