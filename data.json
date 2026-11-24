@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-11-23",
+  "generated_at": "2026-11-24",
   "models": [],
   "posts": [
+    {
+      "title": "Show HN: Lode Runner 2099",
+      "url": "https://loderunner2099.exe.xyz",
+      "date": "2026-11-23T21:46:05+00:00",
+      "source": "hackernews"
+    },
     {
       "title": "Show HN: Game to train my intuition about the world",
       "url": "https://play.neilkakkar.com/finish-the-line/",
@@ -18,6 +24,12 @@
       "title": "Show HN: Coma – Bilingual ES/EN language with LLVM back end and C runtime",
       "url": "https://news.ycombinator.com/item?id=50598756",
       "date": "2026-11-22T11:49:14+00:00",
+      "source": "hackernews"
+    },
+    {
+      "title": "Show HN: Shrinking and distilling the 17.4M-line Riemann Hypothesis Lean proof",
+      "url": "https://github.com/tanclary/riemann-blueprint",
+      "date": "2026-11-22T11:13:41+00:00",
       "source": "hackernews"
     },
     {
