@@ -3,45 +3,27 @@
   "models": [],
   "posts": [
     {
-      "title": "Show HN: Lode Runner 2099",
-      "url": "https://loderunner2099.exe.xyz",
-      "date": "2026-11-23T21:46:05+00:00",
+      "title": "Ask any line why it's there",
+      "url": "https://getness.dev/announcements/conversation-blame.html",
+      "date": "2026-11-24T18:16:56+00:00",
       "source": "hackernews"
     },
     {
-      "title": "Show HN: Game to train my intuition about the world",
-      "url": "https://play.neilkakkar.com/finish-the-line/",
-      "date": "2026-11-23T18:31:07+00:00",
+      "title": "Show HN: We replaced our time tracking SaaS with a Git repository",
+      "url": "https://github.com/clockoli/clockoli",
+      "date": "2026-11-24T12:06:33+00:00",
       "source": "hackernews"
     },
     {
-      "title": "Show HN: TripleClick – 220-line Mac menu bar app for trackpad middle click",
-      "url": "https://github.com/wilu222/tripleclick",
-      "date": "2026-11-22T16:30:15+00:00",
+      "title": "Ask HN: How do engineers approach startups that aren't actively hiring?",
+      "url": "https://news.ycombinator.com/item?id=50625275",
+      "date": "2026-11-24T08:17:52+00:00",
       "source": "hackernews"
     },
     {
       "title": "Show HN: Coma – Bilingual ES/EN language with LLVM back end and C runtime",
       "url": "https://news.ycombinator.com/item?id=50598756",
       "date": "2026-11-22T11:49:14+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Shrinking and distilling the 17.4M-line Riemann Hypothesis Lean proof",
-      "url": "https://github.com/tanclary/riemann-blueprint",
-      "date": "2026-11-22T11:13:41+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Klistra – Make launch videos and product demos, all in one AI studio",
-      "url": "https://klistra.ai",
-      "date": "2026-11-21T15:06:53+00:00",
-      "source": "hackernews"
-    },
-    {
-      "title": "Show HN: Harness for building/cloning SaaS using open-weight models",
-      "url": "https://neander.ai/",
-      "date": "2026-11-17T07:21:58+00:00",
       "source": "hackernews"
     },
     {
